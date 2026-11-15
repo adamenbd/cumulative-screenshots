@@ -1,0 +1,7 @@
+*.user
+*.suo
+*.pdb
+.vs/
+obj/
+work/
+*.tmp

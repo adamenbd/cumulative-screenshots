@@ -13,6 +13,10 @@ Use **Export all screenshots** to save all captures as PNG files.
 
 Requires Windows 10/11, Windows PowerShell 5.1 and .NET Framework 4.x. No installation needed.
 
+## Other platforms
+
+[Linux](linux/README.md) · [macOS](mac/README.md)
+
 ## Build
 
 Run from Windows PowerShell:
